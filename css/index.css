@@ -1,0 +1,22 @@
+header{
+    margin: 25px;
+    padding: 20;
+    position: sticky;
+    top: 0;
+
+}
+#tudo{
+    background-color: rgb(169, 180, 241);
+}
+.i{
+    display: flexbox;
+    height: 40px;
+    
+    
+    
+}
+.caixas{
+    margin: 10px;
+    padding: 10px;
+    background-color: bisque;
+}
