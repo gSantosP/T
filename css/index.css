@@ -9,11 +9,22 @@ header{
     background-color: rgb(169, 180, 241);
 }
 .i{
-    display: flexbox;
+    
     height: 40px;
     
     
     
+}
+.gif{
+    text-align: center;
+    height: auto;
+    width: auto;
+    max-width: 100%;
+}
+.foto{
+    height: auto;
+    width: auto;
+    max-width: 100%;
 }
 .caixas{
     margin: 10px;
